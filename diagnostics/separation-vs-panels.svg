@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="78" y="22" font-size="15" font-family="sans-serif" fill="#14202a">Upper separation x/c against Panel count</text>
+  <line x1="78" y1="36" x2="78" y2="472" stroke="#24323c"/>
+  <line x1="78" y1="472" x2="936" y2="472" stroke="#24323c"/>
+  <line x1="78" y1="441.9310344827586" x2="936" y2="441.9310344827586" stroke="#8ea0ae"/>
+  
+  <path d="M 78.00 79.86 L 364.00 83.59 L 936.00 85.64" fill="none" stroke="#60707c" stroke-width="1.6" stroke-dasharray=""/>
+  <path d="M 78.00 66.07 L 364.00 68.70 L 936.00 70.23" fill="none" stroke="#60707c" stroke-width="1.6" stroke-dasharray="5 3"/>
+  <path d="M 78.00 171.26 L 364.00 178.24 L 936.00 189.14" fill="none" stroke="#60707c" stroke-width="1.6" stroke-dasharray=""/>
+  <path d="M 78.00 97.74 L 364.00 113.28 L 936.00 116.04" fill="none" stroke="#60707c" stroke-width="1.6" stroke-dasharray="5 3"/>
+  <path d="M 78.00 261.50 L 364.00 299.60 L 936.00 420.07" fill="none" stroke="#b33a3a" stroke-width="1.6" stroke-dasharray=""/>
+  <path d="M 78.00 144.00 L 364.00 164.05 L 936.00 181.82" fill="none" stroke="#60707c" stroke-width="1.6" stroke-dasharray="5 3"/>
+  <path d="M 78.00 321.49 L 364.00 425.01 L 936.00 426.65" fill="none" stroke="#60707c" stroke-width="1.6" stroke-dasharray=""/>
+  <path d="M 78.00 171.26 L 364.00 238.41 L 936.00 249.97" fill="none" stroke="#60707c" stroke-width="1.6" stroke-dasharray="5 3"/>
+  <text x="507" y="500" text-anchor="middle" font-size="12" fill="#24323c">Panel count</text>
+  <line x1="74" y1="512" x2="98" y2="512" stroke="#60707c" stroke-width="1.6" stroke-dasharray=""/><text x="104" y="516" font-size="11" fill="#24323c">α 5°, Re 100k</text>
+  <line x1="374" y1="512" x2="398" y2="512" stroke="#60707c" stroke-width="1.6" stroke-dasharray="5 3"/><text x="404" y="516" font-size="11" fill="#24323c">α 5°, Re 500k</text>
+  <line x1="674" y1="512" x2="698" y2="512" stroke="#60707c" stroke-width="1.6" stroke-dasharray=""/><text x="704" y="516" font-size="11" fill="#24323c">α 10°, Re 100k</text>
+  <line x1="74" y1="528" x2="98" y2="528" stroke="#60707c" stroke-width="1.6" stroke-dasharray="5 3"/><text x="104" y="532" font-size="11" fill="#24323c">α 10°, Re 500k</text>
+  <line x1="374" y1="528" x2="398" y2="528" stroke="#b33a3a" stroke-width="1.6" stroke-dasharray=""/><text x="404" y="532" font-size="11" fill="#24323c">α 13°, Re 100k</text>
+  <line x1="674" y1="528" x2="698" y2="528" stroke="#60707c" stroke-width="1.6" stroke-dasharray="5 3"/><text x="704" y="532" font-size="11" fill="#24323c">α 13°, Re 500k</text>
+  <line x1="74" y1="544" x2="98" y2="544" stroke="#60707c" stroke-width="1.6" stroke-dasharray=""/><text x="104" y="548" font-size="11" fill="#24323c">α 15°, Re 100k</text>
+  <line x1="374" y1="544" x2="398" y2="544" stroke="#60707c" stroke-width="1.6" stroke-dasharray="5 3"/><text x="404" y="548" font-size="11" fill="#24323c">α 15°, Re 500k</text>
+  <text x="78" y="622" font-size="12" fill="#4d5d6b">marchBoundaryLayer separation station. x/c = 1 means the march stayed attached to its trim. Not a measured stall location.</text>
+</svg>

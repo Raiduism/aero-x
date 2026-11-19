@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="760" viewBox="0 0 1080 760">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="64" y="24" font-size="16" font-family="sans-serif" fill="#14202a">cl pressure − cl Kutta–Joukowski</text>
+  <text x="64" y="40" font-size="13" fill="#14202a">α = 5°</text>
+  <line x1="64" y1="48" x2="64" y2="293" stroke="#24323c"/>
+  <line x1="64" y1="293" x2="536" y2="293" stroke="#24323c"/>
+  <line x1="64" y1="63.24243739565085" x2="536" y2="63.24243739565085" stroke="#c5d0d8"/>
+  <path d="M 64.00 75.53 L 131.43 69.67 L 266.29 66.52 L 536.00 64.90" fill="none" stroke="#1f4e79" stroke-width="1.7"/>
+  <path d="M 64.00 247.56 L 131.43 207.91 L 266.29 218.25 L 536.00 256.54" fill="none" stroke="#d6610a" stroke-width="1.7"/>
+  <path d="M 64.00 276.10 L 131.43 257.76 L 266.29 271.78 L 536.00 265.70" fill="none" stroke="#2ca02c" stroke-width="1.7"/>
+  <path d="M 64.00 67.06 L 131.43 67.40 L 266.29 67.75 L 536.00 67.99" fill="none" stroke="#6b3fa0" stroke-width="1.7"/>
+  <text x="584" y="40" font-size="13" fill="#14202a">α = 10°</text>
+  <line x1="584" y1="48" x2="584" y2="293" stroke="#24323c"/>
+  <line x1="584" y1="293" x2="1056" y2="293" stroke="#24323c"/>
+  <line x1="584" y1="63.63515923991182" x2="1056" y2="63.63515923991182" stroke="#c5d0d8"/>
+  <path d="M 584.00 72.71 L 651.43 68.47 L 786.29 66.12 L 1056.00 64.90" fill="none" stroke="#1f4e79" stroke-width="1.7"/>
+  <path d="M 584.00 270.03 L 651.43 183.49 L 786.29 201.40 L 1056.00 276.10" fill="none" stroke="#d6610a" stroke-width="1.7"/>
+  <path d="M 584.00 263.94 L 651.43 246.62 L 786.29 259.77 L 1056.00 252.29" fill="none" stroke="#2ca02c" stroke-width="1.7"/>
+  <path d="M 584.00 67.51 L 651.43 68.30 L 786.29 68.81 L 1056.00 69.10" fill="none" stroke="#6b3fa0" stroke-width="1.7"/>
+  <text x="64" y="339" font-size="13" fill="#14202a">α = 13°</text>
+  <line x1="64" y1="347" x2="64" y2="592" stroke="#24323c"/>
+  <line x1="64" y1="592" x2="536" y2="592" stroke="#24323c"/>
+  <line x1="64" y1="362.8128038230661" x2="536" y2="362.8128038230661" stroke="#c5d0d8"/>
+  <path d="M 64.00 370.51 L 131.43 366.95 L 266.29 364.95 L 536.00 363.90" fill="none" stroke="#1f4e79" stroke-width="1.7"/>
+  <path d="M 64.00 573.00 L 131.43 462.53 L 266.29 484.96 L 536.00 575.10" fill="none" stroke="#d6610a" stroke-width="1.7"/>
+  <path d="M 64.00 546.96 L 131.43 531.42 L 266.29 543.52 L 536.00 535.71" fill="none" stroke="#2ca02c" stroke-width="1.7"/>
+  <path d="M 64.00 366.57 L 131.43 367.60 L 266.29 368.23 L 536.00 368.56" fill="none" stroke="#6b3fa0" stroke-width="1.7"/>
+  <text x="584" y="339" font-size="13" fill="#14202a">α = 15°</text>
+  <line x1="584" y1="347" x2="584" y2="592" stroke="#24323c"/>
+  <line x1="584" y1="592" x2="1056" y2="592" stroke="#24323c"/>
+  <line x1="584" y1="362.90523587303534" x2="1056" y2="362.90523587303534" stroke="#c5d0d8"/>
+  <path d="M 584.00 369.91 L 651.43 366.68 L 786.29 364.86 L 1056.00 363.90" fill="none" stroke="#1f4e79" stroke-width="1.7"/>
+  <path d="M 584.00 575.10 L 651.43 450.29 L 786.29 475.64 L 1056.00 574.29" fill="none" stroke="#d6610a" stroke-width="1.7"/>
+  <path d="M 584.00 536.73 L 651.43 522.48 L 786.29 533.91 L 1056.00 525.97" fill="none" stroke="#2ca02c" stroke-width="1.7"/>
+  <path d="M 584.00 366.61 L 651.43 367.82 L 786.29 368.52 L 1056.00 368.90" fill="none" stroke="#6b3fa0" stroke-width="1.7"/>
+  <line x1="64" y1="682" x2="86" y2="682" stroke="#1f4e79" stroke-width="1.7"/><text x="92" y="686" font-size="12" fill="#24323c">rectangle_midpoint</text><line x1="314" y1="682" x2="336" y2="682" stroke="#d6610a" stroke-width="1.7"/><text x="342" y="686" font-size="12" fill="#24323c">gauss3_speed</text><line x1="564" y1="682" x2="586" y2="682" stroke="#2ca02c" stroke-width="1.7"/><text x="592" y="686" font-size="12" fill="#24323c">gauss3_tangential</text><line x1="814" y1="682" x2="836" y2="682" stroke="#6b3fa0" stroke-width="1.7"/><text x="842" y="686" font-size="12" fill="#24323c">gauss3_offset</text>
+  <text x="64" y="724" font-size="12" fill="#4d5d6b">Panel count. Inviscid integrals. Reynolds number does not enter. Kutta–Joukowski lift is the circulation value from the same panel solution.</text>
+</svg>

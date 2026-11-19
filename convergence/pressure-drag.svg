@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="760" viewBox="0 0 1080 760">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="64" y="24" font-size="16" font-family="sans-serif" fill="#14202a">Inviscid pressure drag</text>
+  <text x="64" y="40" font-size="13" fill="#14202a">α = 5°</text>
+  <line x1="64" y1="48" x2="64" y2="293" stroke="#24323c"/>
+  <line x1="64" y1="293" x2="536" y2="293" stroke="#24323c"/>
+  <line x1="64" y1="178.9465945926723" x2="536" y2="178.9465945926723" stroke="#c5d0d8"/>
+  <path d="M 64.00 180.20 L 131.43 180.09 L 266.29 179.64 L 536.00 179.32" fill="none" stroke="#1f4e79" stroke-width="1.7"/>
+  <path d="M 64.00 64.90 L 131.43 123.68 L 266.29 107.08 L 536.00 155.19" fill="none" stroke="#d6610a" stroke-width="1.7"/>
+  <path d="M 64.00 276.10 L 131.43 246.43 L 266.29 250.96 L 536.00 248.71" fill="none" stroke="#2ca02c" stroke-width="1.7"/>
+  <path d="M 64.00 175.71 L 131.43 166.84 L 266.29 161.77 L 536.00 159.20" fill="none" stroke="#6b3fa0" stroke-width="1.7"/>
+  <text x="584" y="40" font-size="13" fill="#14202a">α = 10°</text>
+  <line x1="584" y1="48" x2="584" y2="293" stroke="#24323c"/>
+  <line x1="584" y1="293" x2="1056" y2="293" stroke="#24323c"/>
+  <line x1="584" y1="153.15089498963414" x2="1056" y2="153.15089498963414" stroke="#c5d0d8"/>
+  <path d="M 584.00 153.83 L 651.43 154.02 L 786.29 153.68 L 1056.00 153.43" fill="none" stroke="#1f4e79" stroke-width="1.7"/>
+  <path d="M 584.00 64.90 L 651.43 98.67 L 786.29 69.44 L 1056.00 152.61" fill="none" stroke="#d6610a" stroke-width="1.7"/>
+  <path d="M 584.00 276.10 L 651.43 235.72 L 786.29 242.45 L 1056.00 236.59" fill="none" stroke="#2ca02c" stroke-width="1.7"/>
+  <path d="M 584.00 146.72 L 651.43 138.38 L 786.29 133.60 L 1056.00 131.15" fill="none" stroke="#6b3fa0" stroke-width="1.7"/>
+  <text x="64" y="339" font-size="13" fill="#14202a">α = 13°</text>
+  <line x1="64" y1="347" x2="64" y2="592" stroke="#24323c"/>
+  <line x1="64" y1="592" x2="536" y2="592" stroke="#24323c"/>
+  <line x1="64" y1="446.6182467836504" x2="536" y2="446.6182467836504" stroke="#c5d0d8"/>
+  <path d="M 64.00 446.71 L 131.43 447.21 L 266.29 447.01 L 536.00 446.83" fill="none" stroke="#1f4e79" stroke-width="1.7"/>
+  <path d="M 64.00 377.66 L 131.43 394.43 L 266.29 363.90 L 536.00 465.23" fill="none" stroke="#d6610a" stroke-width="1.7"/>
+  <path d="M 64.00 575.10 L 131.43 532.10 L 266.29 539.19 L 536.00 531.85" fill="none" stroke="#2ca02c" stroke-width="1.7"/>
+  <path d="M 64.00 439.17 L 131.43 430.96 L 266.29 426.23 L 536.00 423.80" fill="none" stroke="#6b3fa0" stroke-width="1.7"/>
+  <text x="584" y="339" font-size="13" fill="#14202a">α = 15°</text>
+  <line x1="584" y1="347" x2="584" y2="592" stroke="#24323c"/>
+  <line x1="584" y1="592" x2="1056" y2="592" stroke="#24323c"/>
+  <line x1="584" y1="445.5617312408733" x2="1056" y2="445.5617312408733" stroke="#c5d0d8"/>
+  <path d="M 584.00 445.30 L 651.43 445.99 L 786.29 445.87 L 1056.00 445.73" fill="none" stroke="#1f4e79" stroke-width="1.7"/>
+  <path d="M 584.00 389.44 L 651.43 393.84 L 786.29 363.90 L 1056.00 476.01" fill="none" stroke="#d6610a" stroke-width="1.7"/>
+  <path d="M 584.00 575.10 L 651.43 531.34 L 786.29 538.49 L 1056.00 530.38" fill="none" stroke="#2ca02c" stroke-width="1.7"/>
+  <path d="M 584.00 437.68 L 651.43 429.62 L 786.29 424.96 L 1056.00 422.56" fill="none" stroke="#6b3fa0" stroke-width="1.7"/>
+  <line x1="64" y1="682" x2="86" y2="682" stroke="#1f4e79" stroke-width="1.7"/><text x="92" y="686" font-size="12" fill="#24323c">rectangle_midpoint</text><line x1="314" y1="682" x2="336" y2="682" stroke="#d6610a" stroke-width="1.7"/><text x="342" y="686" font-size="12" fill="#24323c">gauss3_speed</text><line x1="564" y1="682" x2="586" y2="682" stroke="#2ca02c" stroke-width="1.7"/><text x="592" y="686" font-size="12" fill="#24323c">gauss3_tangential</text><line x1="814" y1="682" x2="836" y2="682" stroke="#6b3fa0" stroke-width="1.7"/><text x="842" y="686" font-size="12" fill="#24323c">gauss3_offset</text>
+  <text x="64" y="724" font-size="12" fill="#4d5d6b">Panel count. Inviscid integrals. Reynolds number does not enter. Kutta–Joukowski lift is the circulation value from the same panel solution.</text>
+</svg>

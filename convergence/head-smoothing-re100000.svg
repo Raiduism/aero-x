@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="760" viewBox="0 0 1080 760">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="64" y="24" font-size="16" font-family="sans-serif" fill="#14202a">Head separation, smoothing experiment, Re = 100,000</text>
+  <text x="64" y="40" font-size="13" fill="#14202a">α = 5°</text>
+  <line x1="64" y1="48" x2="64" y2="293" stroke="#24323c"/>
+  <line x1="64" y1="293" x2="536" y2="293" stroke="#24323c"/>
+  <path d="M 64.00 64.90 L 131.43 108.90 L 266.29 133.19 L 536.00 172.40" fill="none" stroke="#1f4e79" stroke-width="1.7"/>
+  <path d="M 64.00 64.90 L 131.43 108.90 L 266.29 133.19 L 536.00 172.40" fill="none" stroke="#d6610a" stroke-width="1.7"/>
+  <path d="M 64.00 64.90 L 131.43 108.90 L 266.29 133.19 L 536.00 172.40" fill="none" stroke="#2ca02c" stroke-width="1.7"/>
+  <path d="M 64.00 276.10 L 131.43 214.82 L 266.29 186.19 L 536.00 172.40" fill="none" stroke="#6b3fa0" stroke-width="1.7"/>
+  <text x="584" y="40" font-size="13" fill="#14202a">α = 10°</text>
+  <line x1="584" y1="48" x2="584" y2="293" stroke="#24323c"/>
+  <line x1="584" y1="293" x2="1056" y2="293" stroke="#24323c"/>
+  <path d="M 584.00 187.48 L 651.43 218.85 L 786.29 267.85 L 1056.00 276.10" fill="none" stroke="#1f4e79" stroke-width="1.7"/>
+  <path d="M 584.00 187.48 L 651.43 218.85 L 786.29 267.85 L 1056.00 276.10" fill="none" stroke="#d6610a" stroke-width="1.7"/>
+  <path d="M 584.00 187.48 L 651.43 218.85 L 786.29 234.95 L 1056.00 243.09" fill="none" stroke="#2ca02c" stroke-width="1.7"/>
+  <path d="M 584.00 64.90 L 651.43 155.04 L 786.29 202.51 L 1056.00 243.09" fill="none" stroke="#6b3fa0" stroke-width="1.7"/>
+  <text x="64" y="339" font-size="13" fill="#14202a">α = 13°</text>
+  <line x1="64" y1="347" x2="64" y2="592" stroke="#24323c"/>
+  <line x1="64" y1="592" x2="536" y2="592" stroke="#24323c"/>
+  <line x1="64" y1="582.9314741166679" x2="536" y2="582.9314741166679" stroke="#c5d0d8"/>
+  <path d="M 64.00 408.34 L 131.43 417.19 L 266.29 557.47 L 536.00 562.45" fill="none" stroke="#1f4e79" stroke-width="1.7"/>
+  <path d="M 64.00 372.83 L 131.43 417.19 L 266.29 557.47 L 536.00 562.45" fill="none" stroke="#d6610a" stroke-width="1.7"/>
+  <path d="M 64.00 372.83 L 131.43 399.60 L 266.29 412.85 L 536.00 428.08" fill="none" stroke="#2ca02c" stroke-width="1.7"/>
+  <path d="M 64.00 575.10 L 131.43 363.90 L 266.29 395.18 L 536.00 415.05" fill="none" stroke="#6b3fa0" stroke-width="1.7"/>
+  <text x="584" y="339" font-size="13" fill="#14202a">α = 15°</text>
+  <line x1="584" y1="347" x2="584" y2="592" stroke="#24323c"/>
+  <line x1="584" y1="592" x2="1056" y2="592" stroke="#24323c"/>
+  <line x1="584" y1="590.8922300416559" x2="1056" y2="590.8922300416559" stroke="#c5d0d8"/>
+  <path d="M 584.00 548.45 L 651.43 565.27 L 786.29 572.10 L 1056.00 575.10" fill="none" stroke="#1f4e79" stroke-width="1.7"/>
+  <path d="M 584.00 408.55 L 651.43 565.27 L 786.29 567.76 L 1056.00 575.10" fill="none" stroke="#d6610a" stroke-width="1.7"/>
+  <path d="M 584.00 450.41 L 651.43 542.84 L 786.29 562.99 L 1056.00 568.93" fill="none" stroke="#2ca02c" stroke-width="1.7"/>
+  <path d="M 584.00 363.90 L 651.43 397.84 L 786.29 552.18 L 1056.00 566.65" fill="none" stroke="#6b3fa0" stroke-width="1.7"/>
+  <line x1="64" y1="682" x2="86" y2="682" stroke="#1f4e79" stroke-width="1.7"/><text x="92" y="686" font-size="12" fill="#24323c">none</text><line x1="314" y1="682" x2="336" y2="682" stroke="#d6610a" stroke-width="1.7"/><text x="342" y="686" font-size="12" fill="#24323c">three_panel</text><line x1="564" y1="682" x2="586" y2="682" stroke="#2ca02c" stroke-width="1.7"/><text x="592" y="686" font-size="12" fill="#24323c">fixed_chord_0_02</text><line x1="814" y1="682" x2="836" y2="682" stroke="#6b3fa0" stroke-width="1.7"/><text x="842" y="686" font-size="12" fill="#24323c">quadratic_0_02</text>
+  <text x="64" y="724" font-size="12" fill="#4d5d6b">Panel count. Upper-surface x/c. A point at 1 is a march that stayed attached to the trim. Blank failures are omitted. Not a measured location.</text>
+</svg>

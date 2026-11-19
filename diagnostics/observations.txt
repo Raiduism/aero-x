@@ -1,0 +1,12 @@
+Diagnostic observations from the existing march. Not physical measurements.
+Cases: 24. Diagnostic/march mismatches: 0.
+
+α = 13°, Re = 100,000, upper surface:
+  40 panels: stag x/c=0.0783, sign changes=1, panels with x<0.05: 6, min length there=0.0148, max Ue=2.8357 at x/c=0.0024, min λ=-55.5613 at x/c=0.9848, laminar sep=0.0367, transition=not_produced, reported sep=0.4613, Head stop=H_reached_2.4, H=2.4652
+  80 panels: stag x/c=0.0493, sign changes=1, panels with x<0.05: 12, min length there=0.0070, max Ue=3.1193 at x/c=0.0028, min λ=-51.2867 at x/c=0.9810, laminar sep=0.0170, transition=not_produced, reported sep=0.3639, Head stop=H_reached_2.4, H=2.4164
+  160 panels: stag x/c=0.0533, sign changes=1, panels with x<0.05: 23, min length there=0.0035, max Ue=3.2060 at x/c=0.0017, min λ=-96.1363 at x/c=0.9884, laminar sep=0.0064, transition=not_produced, reported sep=0.0559, Head stop=H_reached_2.4, H=2.4123
+
+Inviscid force residual at those panel counts, same angle (Re does not enter):
+  40: clKJ=1.8258, clP=1.7882, difference=-3.762e-2, cdP=-1.425e-4, cd from x<0.1=-2.426e-1, cd from x>=0.1=2.424e-1, max(|q|-|vt|)=4.441e-16
+  80: clKJ=1.8195, clP=1.7993, difference=-2.020e-2, cdP=-9.591e-4, cd from x<0.1=-2.465e-1, cd from x>=0.1=2.455e-1, max(|q|-|vt|)=8.882e-16
+  160: clKJ=1.8151, clP=1.8047, difference=-1.043e-2, cdP=-6.267e-4, cd from x<0.1=-2.481e-1, cd from x>=0.1=2.474e-1, max(|q|-|vt|)=8.882e-16

@@ -1,0 +1,27 @@
+AERO-X numerical validation
+These files record the current model. They are not a comparison with experiment or CFD.
+
+Cases: 234. Solver or march failures: 0.
+Rows with NaN, Infinity, or a non-finite march state: 0.
+Negative section drag values: 0.
+Negative inviscid pressure-drag values: 147.
+Pressure-integrated cl minus Kutta–Joukowski cl: min -4.696e-2, max -1.193e-3.
+Largest finite separation-station spread across panel counts 40, 80 and 160: 0.4054 chord.
+Angle/Reynolds/surface groups whose separation classification disagrees across those panel counts: 24.
+Groups with a failed or non-finite panel count: 0.
+Maximum |cl| difference between solveNaca2412 and solveNodes at 80 panels, over the angle sweep: 0.000e+0.
+
+Rows where a surface met the boundary-layer separation criterion forward of x/c = 0.97: 162.
+Rows where a surface was flagged separated only inside that trailing-edge threshold: 50.
+
+Limitations of the implementation this script was able to reach:
+- sectionAt, which supplies section cl, section cd and the website regime, always calls solveNaca2412. That solver is built with 80 panels. Counts 40 and 160 therefore have empty section cl and cd cells.
+- solveNaca2412 rounds the stored angle to 0.001 degree. Integer angles in this sweep are unchanged.
+- A separation station of 1 means the march reached its x/c = 0.99 trim still attached. It is not a measured separation point.
+- A reported separation at or behind x/c = 0.97 is classified by sectionAt as attached. The raw station is still written in the separation columns. The kind column calls this trailing_edge_trim rather than a boundary-layer separation forward of the trim.
+- boundary_layer_criterion means Thwaites or Head reported separation inside the existing march. It does not mean a wind-tunnel stall location.
+- Transition x/c = 1 means Michel's criterion was not met before the march stopped. If laminar separation occurs first, the existing code restarts a turbulent march there and stores that station as transition.
+- The panel solution is incompressible and independent of Reynolds number. Reynolds number affects only the boundary-layer march and the section coefficients built from it.
+- Displacement thickness is not fed back. Separation movement with panel count is a discretisation sensitivity of this one-way coupling, not a grid-converged viscous solution.
+- Inviscid pressure drag is the panel integral. A small negative value is a numerical residual of that integral, and it is preserved in the CSV. It is not the section drag used by the website.
+- No experimental polar is stored in the project, and none was added here.

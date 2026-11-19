@@ -1,0 +1,25 @@
+NACA 2412 experimental comparison
+The production solver was not changed. No experimental curve was digitized or interpolated.
+
+Used for the numerical comparison
+  Jacobs, Eastman N. and Sherman, Albert. Airfoil Section Characteristics as Affected by Variations of the Reynolds Number. NACA Report No. 586, 1937.
+  NASA NTRS 19930091662. https://ntrs.nasa.gov/citations/19930091662
+  Quantity source: Table I, rows labelled NACA 2412. These are corrected section characteristics at the effective Reynolds number, not a point-by-point polar.
+  The eight test Reynolds numbers are the legend of the NACA 2412 figure (test V.D.T. 1164, August 1934): 3,120,000, 2,310,000, 1,295,000, 656,000, 333,000, 166,000, 82,800 and 41,500.
+  Pairing: the table has eight effective Reynolds numbers and the figure has eight test Reynolds numbers, in the same high-to-low order. Their ratio is 2.63 to 2.65, so each table row is paired here with the legend entry in that order. The report defines the effective Reynolds number as the free-air value after the tunnel-turbulence correction.
+  Transcription: read from the scanned table. The lift-curve slope at effective Reynolds number 110,000 is blank in the table and is omitted. The stall-peak type letter is not used. A one-count error in the last printed digit is possible.
+  Minimum profile drag at effective Reynolds number 438,000 is the printed value 0.0067. The working comparison uses that value. The model minimum on the same sweep is 0.00819, so the signed difference is +0.00149. Drag MAE is 0.00333, drag RMSE is 0.00443, and the maximum absolute drag error is 0.0101. Report 586, page 4, says drag results below an effective Reynolds number of 800,000 are relatively inaccurate. That warning is not a numerical uncertainty band. This comparison does not establish a polar error, a stall angle, or a physical cause.
+  Model values are sectionAt at that effective Reynolds number. Angles were sampled from -8 to 22 degrees in 0.5 degree steps. No experimental angle was invented for cl,max or cd,min.
+
+Conditions for that test
+  Tunnel: NACA Langley variable-density tunnel. Model 5 by 30 inches, duralumin, polished before the higher-Reynolds-number runs. No trip is reported for this plain aerofoil. The stream is turbulent; that is why the report publishes an effective Reynolds number.
+  Speed on the section figures of this report is 69 ft/s, so the Mach number is about 0.06. The report treats compressibility as negligible.
+  Geometry: the figure prints the NACA 2412 ordinates and a leading-edge radius of 1.58 percent chord. Forces were corrected toward infinite aspect ratio, then further corrected for turbulence and tip shape. Table I is the fully corrected section set.
+  Uncertainty: the report says the highest-Reynolds-number accuracy matches its standard aerofoil tests, that velocity and support-deflection errors were largely removed, and that the remaining systematic error is the finite-wing correction and the turbulence correction. It does not give a single uncertainty band for Table I.
+
+Not used for an error metric
+  NACA Report 824 (Abbott, von Doenhoff and Stivers, 1945) plots NACA 2412 at about 3.1, 5.7 and 8.9 million, plus a standard-roughness run. Those Reynolds numbers are above the 100,000 to 1,000,000 range, and the curves were not digitized.
+  UIUC low-speed aerofoil volumes (Selig and co-authors) do not contain a NACA 2412 polar.
+  Airfoil Tools polars labelled NACA 2412 are XFOIL predictions.
+  ICAS 2010 paper 246 tested a NACA 2412 with a 30 percent plain flap and an open gap at Reynolds numbers 61,000 to 260,000. That is not the clean section.
+  A ResearchGate table headed as NACA 2412 at Reynolds number 100,000 was not identified as a wind-tunnel campaign and was not used.

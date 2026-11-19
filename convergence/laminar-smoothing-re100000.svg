@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="760" viewBox="0 0 1080 760">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="64" y="24" font-size="16" font-family="sans-serif" fill="#14202a">Laminar Thwaites crossing, smoothing experiment, Re = 100,000</text>
+  <text x="64" y="40" font-size="13" fill="#14202a">α = 5°</text>
+  <line x1="64" y1="48" x2="64" y2="293" stroke="#24323c"/>
+  <line x1="64" y1="293" x2="536" y2="293" stroke="#24323c"/>
+  <path d="M 64.00 64.90 L 131.43 276.10 L 266.29 174.85 L 536.00 226.64" fill="none" stroke="#1f4e79" stroke-width="1.7"/>
+  <path d="M 64.00 64.90 L 131.43 276.10 L 266.29 174.85 L 536.00 226.64" fill="none" stroke="#d6610a" stroke-width="1.7"/>
+  <path d="M 64.00 64.90 L 131.43 276.10 L 266.29 174.85 L 536.00 226.64" fill="none" stroke="#2ca02c" stroke-width="1.7"/>
+  <path d="M 64.00 64.90 L 131.43 276.10 L 266.29 174.85 L 536.00 226.64" fill="none" stroke="#6b3fa0" stroke-width="1.7"/>
+  <text x="584" y="40" font-size="13" fill="#14202a">α = 10°</text>
+  <line x1="584" y1="48" x2="584" y2="293" stroke="#24323c"/>
+  <line x1="584" y1="293" x2="1056" y2="293" stroke="#24323c"/>
+  <path d="M 584.00 64.90 L 651.43 220.55 L 786.29 276.10 L 1056.00 268.74" fill="none" stroke="#1f4e79" stroke-width="1.7"/>
+  <path d="M 584.00 64.90 L 651.43 220.55 L 786.29 242.09 L 1056.00 268.74" fill="none" stroke="#d6610a" stroke-width="1.7"/>
+  <path d="M 584.00 64.90 L 651.43 220.55 L 786.29 202.03 L 1056.00 233.20" fill="none" stroke="#2ca02c" stroke-width="1.7"/>
+  <path d="M 584.00 64.90 L 651.43 220.55 L 786.29 242.09 L 1056.00 251.73" fill="none" stroke="#6b3fa0" stroke-width="1.7"/>
+  <text x="64" y="339" font-size="13" fill="#14202a">α = 13°</text>
+  <line x1="64" y1="347" x2="64" y2="592" stroke="#24323c"/>
+  <line x1="64" y1="592" x2="536" y2="592" stroke="#24323c"/>
+  <path d="M 64.00 529.82 L 131.43 559.01 L 266.29 570.29 L 536.00 575.10" fill="none" stroke="#1f4e79" stroke-width="1.7"/>
+  <path d="M 64.00 396.08 L 131.43 509.47 L 266.29 570.29 L 536.00 575.10" fill="none" stroke="#d6610a" stroke-width="1.7"/>
+  <path d="M 64.00 396.08 L 131.43 509.47 L 266.29 525.16 L 536.00 544.57" fill="none" stroke="#2ca02c" stroke-width="1.7"/>
+  <path d="M 64.00 363.90 L 131.43 559.01 L 266.29 549.94 L 536.00 555.86" fill="none" stroke="#6b3fa0" stroke-width="1.7"/>
+  <text x="584" y="339" font-size="13" fill="#14202a">α = 15°</text>
+  <line x1="584" y1="347" x2="584" y2="592" stroke="#24323c"/>
+  <line x1="584" y1="592" x2="1056" y2="592" stroke="#24323c"/>
+  <path d="M 584.00 514.97 L 651.43 547.94 L 786.29 560.69 L 1056.00 575.10" fill="none" stroke="#1f4e79" stroke-width="1.7"/>
+  <path d="M 584.00 363.90 L 651.43 547.94 L 786.29 560.69 L 1056.00 575.10" fill="none" stroke="#d6610a" stroke-width="1.7"/>
+  <path d="M 584.00 363.90 L 651.43 491.99 L 786.29 537.70 L 1056.00 544.39" fill="none" stroke="#2ca02c" stroke-width="1.7"/>
+  <path d="M 584.00 363.90 L 651.43 547.94 L 786.29 537.70 L 1056.00 555.88" fill="none" stroke="#6b3fa0" stroke-width="1.7"/>
+  <line x1="64" y1="682" x2="86" y2="682" stroke="#1f4e79" stroke-width="1.7"/><text x="92" y="686" font-size="12" fill="#24323c">none</text><line x1="314" y1="682" x2="336" y2="682" stroke="#d6610a" stroke-width="1.7"/><text x="342" y="686" font-size="12" fill="#24323c">three_panel</text><line x1="564" y1="682" x2="586" y2="682" stroke="#2ca02c" stroke-width="1.7"/><text x="592" y="686" font-size="12" fill="#24323c">fixed_chord_0_02</text><line x1="814" y1="682" x2="836" y2="682" stroke="#6b3fa0" stroke-width="1.7"/><text x="842" y="686" font-size="12" fill="#24323c">quadratic_0_02</text>
+  <text x="64" y="724" font-size="12" fill="#4d5d6b">Panel count. Upper-surface x/c. A point at 1 is a march that stayed attached to the trim. Blank failures are omitted. Not a measured location.</text>
+</svg>

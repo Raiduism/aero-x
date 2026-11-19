@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="78" y="22" font-size="15" font-family="sans-serif" fill="#14202a">Thwaites λ against x/c</text>
+  <line x1="78" y1="36" x2="78" y2="472" stroke="#24323c"/>
+  <line x1="78" y1="472" x2="936" y2="472" stroke="#24323c"/>
+  <line x1="78" y1="132.5528409347566" x2="936" y2="132.5528409347566" stroke="#8ea0ae"/>
+  <line x1="78" y1="159.14639110176267" x2="936" y2="159.14639110176267" stroke="#b33a3a" stroke-dasharray="2 3"/>
+  <path d="M 151.89 66.07 L 108.01 82.21 L 84.50 94.55 L 82.19 105.63 L 101.47 134.96 L 142.11 209.55 L 203.26 252.75 L 283.49 261.71 L 380.81 268.69 L 492.73 283.84 L 616.32 314.08 L 748.17 361.20 L 884.48 414.27" fill="none" stroke="#1f77b4" stroke-width="1.6" stroke-dasharray=""/>
+  <path d="M 137.24 66.07 L 115.22 92.09 L 98.25 98.32 L 86.45 101.50 L 79.91 104.65 L 78.72 110.14 L 82.94 124.73 L 92.60 155.84 L 107.65 193.73 L 128.03 221.80 L 153.62 237.89 L 184.29 246.21 L 219.84 250.58 L 260.08 253.52 L 304.75 256.61 L 353.57 260.85 L 406.22 266.93 L 462.36 275.39 L 521.63 286.83 L 583.63 302.09 L 647.96 323.11 L 714.18 353.55 L 781.70 388.09 L 849.99 413.72 L 918.77 435.42" fill="none" stroke="#2ca02c" stroke-width="1.6" stroke-dasharray=""/>
+  <path d="M 156.52 66.07 L 143.06 85.94 L 130.81 97.03 L 119.79 102.37 L 110.02 104.27 L 101.53 105.04 L 94.32 105.38 L 88.41 105.66 L 83.82 106.16 L 80.55 107.18 L 78.60 109.15 L 78.00 112.65 L 78.75 118.79 L 80.86 129.14 L 84.34 143.75 L 89.17 160.73 L 95.35 177.76 L 102.89 193.21 L 111.75 206.30 L 121.95 216.90 L 133.46 225.20 L 146.26 231.55 L 160.35 236.33 L 175.69 239.91 L 192.27 242.63 L 210.06 244.76 L 229.04 246.54 L 249.17 248.16 L 270.43 249.80 L 292.79 251.57 L 316.19 253.59 L 340.62 255.95 L 366.03 258.73 L 392.38 261.99 L 419.62 265.81 L 447.72 270.24 L 476.62 275.36 L 506.28 281.24 L 536.64 287.99 L 567.67 295.72 L 599.30 304.61 L 631.49 314.91 L 664.18 327.04 L 697.32 341.86 L 730.85 362.39 L 764.70 386.90 L 798.70 404.03 L 832.81 410.81 L 867.10 417.70 L 901.52 428.81 L 936.00 441.93" fill="none" stroke="#d6610a" stroke-width="1.6" stroke-dasharray=""/>
+  <text x="507" y="500" text-anchor="middle" font-size="12" fill="#24323c">x/c</text>
+  <line x1="74" y1="512" x2="98" y2="512" stroke="#1f77b4" stroke-width="1.6" stroke-dasharray=""/><text x="104" y="516" font-size="11" fill="#24323c">λ, 40 panels</text>
+  <line x1="374" y1="512" x2="398" y2="512" stroke="#2ca02c" stroke-width="1.6" stroke-dasharray=""/><text x="404" y="516" font-size="11" fill="#24323c">λ, 80 panels</text>
+  <line x1="674" y1="512" x2="698" y2="512" stroke="#d6610a" stroke-width="1.6" stroke-dasharray=""/><text x="704" y="516" font-size="11" fill="#24323c">λ, 160 panels</text>
+  <text x="78" y="622" font-size="12" fill="#4d5d6b">Same case. The horizontal mark is the existing separation threshold λ = −0.09. Values below the axis limit are clipped on the plot only.</text>
+</svg>

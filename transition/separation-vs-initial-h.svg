@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="820" viewBox="0 0 1080 820">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="70" y="24" font-size="16" font-family="sans-serif" fill="#14202a">Upper-surface Head station against prescribed initial H</text>
+  <text x="70" y="46" font-size="14" fill="#14202a">α = 5°</text>
+  <line x1="70" y1="56" x2="70" y2="286" stroke="#24323c"/>
+  <line x1="70" y1="286" x2="500" y2="286" stroke="#24323c"/>
+  <path d="M 70.00 73.83 L 156.00 80.88 L 328.00 80.88 L 500.00 80.88" fill="none" stroke="#1f4e79" stroke-width="1.5" stroke-dasharray=""/>
+  <path d="M 70.00 72.20 L 156.00 82.78 L 328.00 82.78 L 500.00 82.78" fill="none" stroke="#1f4e79" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <path d="M 70.00 74.33 L 156.00 83.84 L 328.00 83.84 L 500.00 83.84" fill="none" stroke="#1f4e79" stroke-width="1.5" stroke-dasharray="1 2"/>
+  <path d="M 70.00 69.03 L 156.00 73.83 L 328.00 73.83 L 500.00 73.83" fill="none" stroke="#d6610a" stroke-width="1.5" stroke-dasharray=""/>
+  <path d="M 70.00 72.20 L 156.00 75.18 L 328.00 75.18 L 500.00 72.20" fill="none" stroke="#d6610a" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <path d="M 70.00 74.33 L 156.00 75.96 L 328.00 74.33 L 500.00 74.33" fill="none" stroke="#d6610a" stroke-width="1.5" stroke-dasharray="1 2"/>
+  <path d="M 70.00 73.83 L 156.00 69.03 L 328.00 69.03 L 500.00 69.03" fill="none" stroke="#2ca02c" stroke-width="1.5" stroke-dasharray=""/>
+  <path d="M 70.00 72.20 L 156.00 72.20 L 328.00 72.20 L 500.00 72.20" fill="none" stroke="#2ca02c" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <path d="M 70.00 74.33 L 156.00 74.33 L 328.00 72.84 L 500.00 72.84" fill="none" stroke="#2ca02c" stroke-width="1.5" stroke-dasharray="1 2"/>
+  <text x="590" y="46" font-size="14" fill="#14202a">α = 10°</text>
+  <line x1="590" y1="56" x2="590" y2="286" stroke="#24323c"/>
+  <line x1="590" y1="286" x2="1020" y2="286" stroke="#24323c"/>
+  <path d="M 590.00 127.61 L 676.00 127.61 L 848.00 113.67 L 1020.00 113.67" fill="none" stroke="#1f4e79" stroke-width="1.5" stroke-dasharray=""/>
+  <path d="M 590.00 146.31 L 676.00 131.18 L 848.00 131.18 L 1020.00 123.92" fill="none" stroke="#1f4e79" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <path d="M 590.00 148.23 L 676.00 136.75 L 848.00 133.01 L 1020.00 133.01" fill="none" stroke="#1f4e79" stroke-width="1.5" stroke-dasharray="1 2"/>
+  <path d="M 590.00 101.04 L 676.00 90.02 L 848.00 90.02 L 1020.00 90.02" fill="none" stroke="#d6610a" stroke-width="1.5" stroke-dasharray=""/>
+  <path d="M 590.00 103.92 L 676.00 97.97 L 848.00 97.97 L 1020.00 97.97" fill="none" stroke="#d6610a" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <path d="M 590.00 105.43 L 676.00 99.38 L 848.00 99.38 L 1020.00 99.38" fill="none" stroke="#d6610a" stroke-width="1.5" stroke-dasharray="1 2"/>
+  <path d="M 590.00 90.02 L 676.00 90.02 L 848.00 90.02 L 1020.00 90.02" fill="none" stroke="#2ca02c" stroke-width="1.5" stroke-dasharray=""/>
+  <path d="M 590.00 92.44 L 676.00 92.44 L 848.00 92.44 L 1020.00 92.44" fill="none" stroke="#2ca02c" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <path d="M 590.00 96.50 L 676.00 93.74 L 848.00 91.09 L 1020.00 91.09" fill="none" stroke="#2ca02c" stroke-width="1.5" stroke-dasharray="1 2"/>
+  <text x="70" y="376" font-size="14" fill="#14202a">α = 13°</text>
+  <line x1="70" y1="386" x2="70" y2="616" stroke="#24323c"/>
+  <line x1="70" y1="616" x2="500" y2="616" stroke="#24323c"/>
+  <path d="M 70.00 503.75 L 156.00 503.75 L 328.00 503.75 L 500.00 503.75" fill="none" stroke="#1f4e79" stroke-width="1.5" stroke-dasharray=""/>
+  <path d="M 70.00 523.23 L 156.00 523.23 L 328.00 515.50 L 500.00 515.50" fill="none" stroke="#1f4e79" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <path d="M 70.00 539.99 L 156.00 584.82 L 328.00 588.19 L 500.00 589.65" fill="none" stroke="#1f4e79" stroke-width="1.5" stroke-dasharray="1 2"/>
+  <path d="M 70.00 457.61 L 156.00 443.67 L 328.00 443.67 L 500.00 443.67" fill="none" stroke="#d6610a" stroke-width="1.5" stroke-dasharray=""/>
+  <path d="M 70.00 461.18 L 156.00 453.92 L 328.00 453.92 L 500.00 453.92" fill="none" stroke="#d6610a" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <path d="M 70.00 474.37 L 156.00 463.01 L 328.00 459.32 L 500.00 459.32" fill="none" stroke="#d6610a" stroke-width="1.5" stroke-dasharray="1 2"/>
+  <path d="M 70.00 431.04 L 156.00 431.04 L 328.00 431.04 L 500.00 431.04" fill="none" stroke="#2ca02c" stroke-width="1.5" stroke-dasharray=""/>
+  <path d="M 70.00 446.93 L 156.00 440.25 L 328.00 440.25 L 500.00 440.25" fill="none" stroke="#2ca02c" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <path d="M 70.00 452.12 L 156.00 445.20 L 328.00 445.20 L 500.00 445.20" fill="none" stroke="#2ca02c" stroke-width="1.5" stroke-dasharray="1 2"/>
+  <text x="590" y="376" font-size="14" fill="#14202a">α = 15°</text>
+  <line x1="590" y1="386" x2="590" y2="616" stroke="#24323c"/>
+  <line x1="590" y1="616" x2="1020" y2="616" stroke="#24323c"/>
+  <path d="M 590.00 519.34 L 676.00 534.42 L 848.00 534.42 L 1020.00 581.67" fill="none" stroke="#1f4e79" stroke-width="1.5" stroke-dasharray=""/>
+  <path d="M 590.00 570.06 L 676.00 587.35 L 848.00 590.27 L 1020.00 590.27" fill="none" stroke="#1f4e79" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <path d="M 590.00 576.42 L 676.00 588.19 L 848.00 592.14 L 1020.00 593.15" fill="none" stroke="#1f4e79" stroke-width="1.5" stroke-dasharray="1 2"/>
+  <path d="M 590.00 472.52 L 676.00 457.61 L 848.00 457.61 L 1020.00 457.61" fill="none" stroke="#d6610a" stroke-width="1.5" stroke-dasharray=""/>
+  <path d="M 590.00 499.83 L 676.00 491.94 L 848.00 484.08 L 1020.00 484.08" fill="none" stroke="#d6610a" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <path d="M 590.00 509.66 L 676.00 497.86 L 848.00 493.91 L 1020.00 489.97" fill="none" stroke="#d6610a" stroke-width="1.5" stroke-dasharray="1 2"/>
+  <path d="M 590.00 457.61 L 676.00 443.67 L 848.00 443.67 L 1020.00 443.67" fill="none" stroke="#2ca02c" stroke-width="1.5" stroke-dasharray=""/>
+  <path d="M 590.00 476.31 L 676.00 461.18 L 848.00 461.18 L 1020.00 461.18" fill="none" stroke="#2ca02c" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <path d="M 590.00 482.12 L 676.00 470.54 L 848.00 466.75 L 1020.00 466.75" fill="none" stroke="#2ca02c" stroke-width="1.5" stroke-dasharray="1 2"/>
+  <line x1="70" y1="760" x2="94" y2="760" stroke="#1f4e79" stroke-dasharray=""/><text x="100" y="764" font-size="11" fill="#24323c">Re 100k, 40 panels</text><line x1="400" y1="760" x2="424" y2="760" stroke="#1f4e79" stroke-dasharray="4 3"/><text x="430" y="764" font-size="11" fill="#24323c">Re 100k, 80 panels</text><line x1="730" y1="760" x2="754" y2="760" stroke="#1f4e79" stroke-dasharray="1 2"/><text x="760" y="764" font-size="11" fill="#24323c">Re 100k, 160 panels</text><line x1="70" y1="776" x2="94" y2="776" stroke="#d6610a" stroke-dasharray=""/><text x="100" y="780" font-size="11" fill="#24323c">Re 500k, 40 panels</text><line x1="400" y1="776" x2="424" y2="776" stroke="#d6610a" stroke-dasharray="4 3"/><text x="430" y="780" font-size="11" fill="#24323c">Re 500k, 80 panels</text><line x1="730" y1="776" x2="754" y2="776" stroke="#d6610a" stroke-dasharray="1 2"/><text x="760" y="780" font-size="11" fill="#24323c">Re 500k, 160 panels</text><line x1="70" y1="792" x2="94" y2="792" stroke="#2ca02c" stroke-dasharray=""/><text x="100" y="796" font-size="11" fill="#24323c">Re 1000k, 40 panels</text><line x1="400" y1="792" x2="424" y2="792" stroke="#2ca02c" stroke-dasharray="4 3"/><text x="430" y="796" font-size="11" fill="#24323c">Re 1000k, 80 panels</text><line x1="730" y1="792" x2="754" y2="792" stroke="#2ca02c" stroke-dasharray="1 2"/><text x="760" y="796" font-size="11" fill="#24323c">Re 1000k, 160 panels</text>
+  <text x="70" y="808" font-size="12" fill="#4d5d6b">A station of 1 stayed attached to the trim. Prescribed H values are a sensitivity set, not fitted constants. The laminar Thwaites value is in the CSV.</text>
+</svg>
